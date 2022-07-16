@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '^S&^D*&^D*&SA^*D^*&S&*fhdskjghknfdkhdsfnuhskfh@#$@#$@#$@#$@#$@#4jhkjdxckjfhkjsbfm%^%*^&*$&#%$#%&#$%^$^%$^#^%$^#^%$^#^%$^%#^#$^#%#^^()())  bkljlogjkljhffdhkdfhhjhgkjhghfdgkjhdskjuihtint$%^^^%*^&*&^*&*(^&%$%$^gkfdjj;,djfghnjgfhkh;fddhD>FhNKnhfnkhn4545f1d1g1fd51g6f1dgb56fgg6dg10D*&^AS**&DAS546464'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['192.168.1.12', '127.0.0.1','fastercomputers.herokuapp.com','localhost','*']
 
