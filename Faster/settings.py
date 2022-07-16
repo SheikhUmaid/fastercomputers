@@ -25,7 +25,7 @@ SECRET_KEY = '^S&^D*&^D*&SA^*D^*&S&*fhdskjghknfdkhdsfnuhskfh@#$@#$@#$@#$@#$@#4jh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['192.168.1.12', '127.0.0.1','fastercomputers.herokuapp.com/']
+ALLOWED_HOSTS = ['192.168.1.12', '127.0.0.1','fastercomputers.herokuapp.com','localhost','*']
 
 
 # Application definition
