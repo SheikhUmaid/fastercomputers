@@ -31,7 +31,6 @@ ALLOWED_HOSTS = ['192.168.1.12', '127.0.0.1','fastercomputers.herokuapp.com','lo
 # Application definition
 
 INSTALLED_APPS = [
-    'whitenoise.runserver_nostatic',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
